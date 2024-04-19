@@ -1,0 +1,2 @@
+# ProyectoBioInformatica
+CodigoSarsCov2
