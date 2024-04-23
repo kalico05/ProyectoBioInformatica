@@ -1,0 +1,57 @@
+---
+title: 'Evidencia 1: Analisis inicial'
+author: ' Maria Elizabeth Orduña Toledo |A01424302, Javier Canella Ramos |A01424391,
+  Karol Octavio Flores Marines |A01424317'
+date: "22/04/2024"
+output: html_notebook
+---
+
+<h3>Preguntas</h3>
+
+<b>¿Cuál es la situación actual de COVID-19 a nivel mundial, en México y en el mundo?</b>\
+De acuerdo a “COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)” podemos obtener información real de lo que está pasando en el mundo acerca de el Covid-19 recordemos que este fue un virus que ocasionó graves problemas en todos los ámbitos a nivel mundial, tanto económicos, políticos y sociales. Unos 14,9 millones de personas murieron en el mundo a causa de la pandemia de COVID-19 entre el 1 de enero de 2020 y el 31 de diciembre de 2021. Ahora estamos viviendo en el año 2024 ¿Cuáles son las cifras?. El análisis de la plataforma marca un total de 676.609.955 casos confirmados de covid-19 y un total de 13.338.833.198 personas vacunadas. De acuerdo a nuestras investigaciones en México existe un total de 7.483.444 casos confirmados hasta ahora y 225,063,079 dosis de vacuna administrada. En el último mes se registraron 93.214 casos nuevos y 709 decesos. 
+
+<b>¿Cuál fue la primera vairante del virus que se propagó a todo el mundo?</b>\
+La primera variante del virus COVID-19 que se propagó a nivel mundial fue la denominada variante Alpha, también conocida como B.1.1.7, identificada por primera vez en el Reino Unido a finales de 2020. Esta variante se caracteriza por una mayor transmisibilidad en comparación con las cepas anteriores del virus. Atrajo la atención mundial debido a su rápida propagación y su posible asociación con una mayor gravedad de los casos. Se cree que esta variante es hasta un 50% más transmisible que las cepas anteriores del virus. A medida que se extendió por todo el mundo, se convirtió en una de las variantes predominantes del COVID-19 en muchos países, lo que llevó a medidas más estrictas de contención y vacunación.
+
+
+<b>¿Cuáles son las otras variantes del virus que existen en otras regiones del mundo?</b>\
+
+Aquí está la lista completa de variantes de SARS-CoV-2 desde 2020 hasta la actualidad, más las hipotéticas que podrían surgir en 2024:
+
+- Alpha (linajes B.1.1.7 y Q)
+- Beta (linajes B.1.35 y descendientes)
+- Gamma (linajes P.1 y descendientes)
+- Delta (linajes B.1.617.2 y AY)
+- Epsilon (B.1.43 y B.1.43)
+- Eta (B.1.52)
+- Iota (B.1.53)
+- Kappa (B.1.617.1)
+- Mu (B.1.621, B.1.621.1)
+- Zeta (P.2)
+- Ómicron (linajes B.1.1.529, BA.1, BA.1.1, BA.2, BA.3, BA.4 y BA.5)
+- Pi (linajes B.2.1 y descendientes) *
+- Rho (linajes C.1 y C.2) *
+- Sigma (linaje D.1) *
+- Tau (linajes E.1, E.2, E.3) *
+- Upsilon (linaje F.1) *
+- Phi (linajes G.1, G.2, G.3) *
+- Chi (linaje H.1) *
+- Psi (linajes I.1, I.2) *
+- Omega (linajes J.1, J.2, J.3) *
+
+*Las variantes marcadas con asterisco son hipotéticas para 2024.
+
+<h3>Propuesta</h3>
+
+Un programa que identifique y compare la primera variante del virus COVID-19, con un grupo de variantes mutadas en américa latina, esto con el fin de hallar las mutaciones más presentes o relevantes para así poder llevar a cabo un análisis de cada una de éstas, para así poder comprobar el cómo éstas mutaciones afectan de forma diferente a los pacientes y demás datos importantes de mencionar sobre las mismas.\
+
+**Objetivo general:** Desarrollar un programa para identificar y comparar las mutaciones del SARS-CoV-2 en Latinoamérica, enfocándose en las variantes mutadas en comparación con la variante original.\
+
+**Objetivos específicos:**
+-Implementar un algoritmo para identificar mutaciones en secuencias del genoma completo del SARS-CoV-2.
+-Comparar las mutaciones presentes en las variantes mutadas de Latinoamérica con la variante original.
+-Identificar las mutaciones más frecuentes o relevantes en las variantes mutadas de Latinoamérica.
+-Analizar el impacto potencial de las mutaciones identificadas en la transmisibilidad, patogenicidad y escape inmune del virus.
+-Visualizar los resultados del análisis comparativo de mutaciones utilizando gráficos y tablas.
+
