@@ -1,0 +1,22 @@
+---
+title: "Análisis Aminoacidos"
+author: ' Maria Elizabeth Orduña Toledo |A01424302, Javier Canella Ramos |A01424391,
+output: html_notebook
+---
+Principales cambios---------Frecuencia 
+
+"Wuhan-B117"
+
+D3L---------30
+R203K---------20
+
+"Wuhan-P1"
+R203K---------20 
+
+"B117-P1"
+D1208A---------20
+|1001T---------20
+K1995Q---------20
+L3D------------30
+S1188L---------20
+T22301---------20
