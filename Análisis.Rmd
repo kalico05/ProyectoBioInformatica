@@ -1,0 +1,61 @@
+---
+title: "Análisis de Gráficas"
+author: "Maria Elizabeth Orduña Toledo | A01424302, Javier Canella Ramos | A01424391"
+output: html_notebook
+---
+
+## Principales cambios Aminoácidos - Frecuencia
+
+### "Wuhan-B117"
+
+- D3L: 30
+- R203K: 20
+
+### "Wuhan-P1"
+- R203K: 20 
+
+### "B117-P1"
+- D1208A: 20
+- |1001T: 20
+- K1995Q: 20
+- L3D: 30
+- S1188L: 20
+- T22301: 20
+
+## Principales cambios en Mutaciones Comunes - Frecuencia
+
+### "Wuhan-B117"
+- AtoG: 11
+- CtoU: 17
+- GtoA: 20
+- GtoC: 21
+
+### "Wuhan-P1"
+- AtoG: 11
+- CtoU: 43
+- GtoA: 42
+
+## Principales cambios en Mutaciones No Comunes - Frecuencia
+
+### "Wuhan-B117"
+- UtoA: 10
+
+### "Wuhan-P1"
+- GtoU: 43
+
+### "B117-P1"
+- AtoC: 44
+- AtoG: 15
+- CtoG: 21
+- CtoU: 73
+- GtoA: 19
+- GtoU: 34
+- UtoC: 93
+
+Estas dos variantes pertenecen a la misma familia. Sin embargo, la variante P.1, además de tener una transmisibilidad muy alta como la B.1.1.7, también posee la capacidad de disminuir la efectividad de los anticuerpos.
+
+Las variantes B.1.1.7 y P.1 comparten algunas mutaciones, lo que puede indicar una relación evolutiva cercana. La variante P.1 destaca por poseer 11 mutaciones de sustitución de aminoácidos en su proteína S: K417T, E484K y N501Y en su sitio de unión al receptor (RBD), L18F, T20N, P26S, D138Y y R190S en el dominio N-terminal, V1176F y H655Y cerca del sitio de anclaje de la furina (una proteasa de la célula huésped). Algunas de estas mutaciones tienen una correlación sólida con el incremento en la transmisibilidad y altas incidencias de reinfección en segundos brotes en regiones previamente afectadas por la pandemia.
+
+La variante B.1.1.7 presenta dos de las modificaciones más notables, la sustitución de aminoácidos: D3L y R203K. Estos cambios pueden alterar la forma en que el virus interactúa con las células huésped y su capacidad de evadir el sistema inmunológico. Además, se observan mutaciones comunes y no comunes en su material genético, lo que podría influir en su capacidad de replicación y transmisión. En resumen, la variante B.1.1.7 muestra una combinación única de cambios genéticos que podrían tener consecuencias importantes en términos de propagación y gravedad de la enfermedad.
+
+En resumen, mientras que la variante B.1.1.7 se asocia principalmente con una mayor velocidad de propagación debido a cambios en la transmisibilidad del virus, la variante P.1 genera preocupación por su capacidad para evadir la inmunidad previa debido a mutaciones en la proteína S, lo que podría tener implicaciones en la eficacia de las medidas de control y la eficacia de las vacunas.
